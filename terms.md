@@ -1,3 +1,6 @@
+---
+permalink: /terms/
+---
 # World Dominion — Terms of Service
 
 **Effective Date:** November 22, 2026
